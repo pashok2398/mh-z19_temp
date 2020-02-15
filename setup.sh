@@ -4,4 +4,5 @@
 #
 
 # 
-sudo apt-get install jq -y 
+sudo apt-get install python-pip git-core jq -y
+sudo pip install mh_z19 
